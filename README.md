@@ -2,7 +2,7 @@
 
 I'm a dedicated Software Engineer with a proven track record in developing robust web applications. I'm passionate about coding, problem-solving, and creating innovative solutions that drive user engagement and business growth.
 
-In my 2+ years of experience, I've had the privilege of working on a wide range of projects, from e-commerce platforms to content management systems. My expertise includes:
+In my experience, I've had the privilege of working on a wide range of projects, from e-commerce platforms to content management systems. My expertise includes:
 
 🚀 PHP Development: Proficient in PHP and Laravel, Livewire, I've contributed to the development of scalable and efficient web applications.
 
@@ -16,7 +16,6 @@ In my 2+ years of experience, I've had the privilege of working on a wide range 
 - SOFTWARE ENGINEER at [Jatri Service Limited](https://www.jatri.co/) - Developed and maintained multiple projects.
 - BACK-END WEB DEVELOPER at [Antopolis Designs & Technologies Ltd.](https://theantopolis.com) - Worked on various projects, including the development of e-commerce.
 
-📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ihossain5&show_icons=true&theme=gotham" alt="ihossain5" />
 
