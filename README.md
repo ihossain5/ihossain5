@@ -6,7 +6,7 @@ In my experience, I've had the privilege of working on a wide range of projects,
 
 🚀 PHP Development: Proficient in PHP and Laravel, Livewire, I've contributed to the development of scalable and efficient web applications.
 
-🌐 Frontend Technologies: I'm well-versed in HTML, CSS, JavaScript, Vue Js, and jQuery to create seamless user interfaces.
+🌐 Frontend Technologies: I'm well-versed in HTML, CSS, JavaScript, Vue Js to create seamless user interfaces.
 
 🔧 Database Management: Experienced in designing and optimizing databases with MySQL and PostgreSQL.
 
