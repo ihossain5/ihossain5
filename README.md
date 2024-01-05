@@ -22,5 +22,3 @@ In my experience, I've had the privilege of working on a wide range of projects,
 ## Contact
 Feel free to connect with me on [LinkedIn :necktie:](https://www.linkedin.com/in/ismail-hossain5169/) or drop me a message at [ismail.hossain1460@gmail.com :envelope:](mailto:rijonstack@gmail.com)
 
-
-Thanks for visiting my page! :smile:
